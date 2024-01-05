@@ -2,3 +2,4 @@ FUTURE RESOLUTIONS
 -Lebih konsisten belajar programming
 -Lebih rajin ngulik hal baru
 -Belajar banyak skill
+-Menyelesaikan project web portfolio 
