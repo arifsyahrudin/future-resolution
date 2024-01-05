@@ -5,4 +5,4 @@ RENCANA PROJECT
   *membuat lebih interaktif
 -Melanjutkan web music player
 -Melanjutkan web portofolio
- *membuat HALAMAN TENTANG
+ *membuat ABOUT PAGE
