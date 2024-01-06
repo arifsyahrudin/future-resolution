@@ -7,3 +7,4 @@ RENCANA PROJECT
 -Melanjutkan web portofolio
  *membuat ABOUT PAGE
  *membuat SKILL PAGE
+ *membuat PROJECT PAGE
