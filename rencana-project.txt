@@ -3,7 +3,5 @@ RENCANA PROJECT
 -Melanjutkan web kuyWash
   *menstyling lebih baik
   *membuat lebih interaktif
+  *membuat payment gate
 -Melanjutkan web music player
--Melanjutkan web portofolio
- *membuat ABOUT PAGE
- *membuat SKILL PAGE
